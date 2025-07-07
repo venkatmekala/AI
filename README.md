@@ -7,3 +7,5 @@ https://javarevisited.substack.com/p/the-complete-ai-and-llm-engineering?utm_sou
 https://www.youtube.com/@IBMTechnology/playlists
 
 https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file
+
+https://javarevisited.substack.com/p/the-complete-ai-and-llm-engineering?utm_source=substack&utm_medium=email
