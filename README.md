@@ -9,3 +9,11 @@ https://www.youtube.com/@IBMTechnology/playlists
 https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file
 
 https://javarevisited.substack.com/p/the-complete-ai-and-llm-engineering?utm_source=substack&utm_medium=email
+
+
+Important:
+
+https://github.com/louisfb01/start-machine-learning?tab=readme-ov-file#youtubevideos
+https://substack.com/@shivanivirdi/note/c-132320314
+
+
