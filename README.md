@@ -14,6 +14,8 @@ https://javarevisited.substack.com/p/the-complete-ai-and-llm-engineering?utm_sou
 Important:
 
 https://github.com/louisfb01/start-machine-learning?tab=readme-ov-file#youtubevideos
+
+
 https://substack.com/@shivanivirdi/note/c-132320314
 
 
