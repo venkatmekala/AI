@@ -18,4 +18,10 @@ https://github.com/louisfb01/start-machine-learning?tab=readme-ov-file#youtubevi
 
 https://substack.com/@shivanivirdi/note/c-132320314
 
+https://substack.com/@shivanivirdi/note/c-134172817
+
+https://substack.com/@shirinkjam/note/c-133160958
+
+
+
 
