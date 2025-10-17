@@ -26,6 +26,8 @@ https://github.com/krishnaik06
 
 https://github.com/embabel
 
+https://www.baeldung.com/spring-ai-ollama-chatgpt-like-chatbot
+
 
 
 
